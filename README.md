@@ -37,8 +37,8 @@ Trained with the batchsize of 16 and image size is reduced to 416, however, defa
 
 This model can predict if the mask is not weared properly. These are the results. 
 
-<img src="https://github.com/Jaiminml/YOLOV5_CustomDataset/blob/master/runs/detect/exp22/image.jpg" width="900">
-<img src="https://github.com/Jaiminml/YOLOV5_CustomDataset/blob/master/runs/detect/exp25/image3.jpg" width="900">
+<img src="https://github.com/Jaiminml/YOLOV5_CustomDataset/blob/master/runs/detect/exp22/image.jpg" width="400">
+<img src="https://github.com/Jaiminml/YOLOV5_CustomDataset/blob/master/runs/detect/exp25/image3.jpg" width="400">
 
 
 ## Other information
