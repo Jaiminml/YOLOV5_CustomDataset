@@ -33,6 +33,13 @@ Trained with the batchsize of 16 and image size is reduced to 416, however, defa
 
 !python train.py --img 416 --batch 16 --epochs 300 --data data.yaml --cfg yolov5s.yaml --weights ‘’ --name robo4_epoch150_s --adam
 
+## Results
+
+This model can predict if the mask is not weared properly. These are the results. 
+
+<img src="https://github.com/Jaiminml/YOLOV5_CustomDataset/blob/master/runs/detect/exp22/image.jpg" width="900">
+<img src="https://github.com/Jaiminml/YOLOV5_CustomDataset/blob/master/runs/detect/exp25/image3.jpg" width="900">
+
 
 ## Other information
 For more detailed information about the algorithms and their corresponding lisences used in this project access their official github implementations.
